@@ -13,6 +13,8 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 130px;
+
 }
 
 .half-width {
@@ -27,7 +29,7 @@ section {
     padding-top: 10%;
 }
 
-.link-button {
+.link-button1 {
     text-decoration: none;
     background-image: linear-gradient(#ce4f38, #d3866e);
     padding: 9px 35px;
@@ -39,4 +41,18 @@ section {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+
+
+/*--------Section 2--------*/
+
+.pb {
+    margin-top: 100px;
+}
+
+.Dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
